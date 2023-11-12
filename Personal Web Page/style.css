@@ -1,0 +1,36 @@
+.gradient-background {
+  background: linear-gradient(300deg,#ee9867, #f6d9c6, #fbc9a8, #cadce7);
+  background-size: 180% 180%;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile {
+  height: 100px;
+  border-radius: 50%;
+}
+.eagle {
+  position: absolute;
+  right: 250px;
+  top: 190px;
+}
+.title-text {
+  display: block;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family:"Libre Baskerville", serif;
+}
+p {
+  font-family:"Noto Sans", sans-serif;
+  text-align: center;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
